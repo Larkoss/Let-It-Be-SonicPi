@@ -1,3 +1,3 @@
 # Let-It-Be-SonicPi
-![alt text](https://imgur.com/0ikkeGe)
+![alt text](https://i.imgur.com/0ikkeGe.png)
 Compose the classic Beatles song using code 
